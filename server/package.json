@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server's dependencies for graphs-maker project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016"
+  },
+  "author": "Artem Alieinikov",
+  "license": "ISC"
+}
