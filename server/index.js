@@ -3,7 +3,7 @@ const listenPort = 3000;
 
 const requestHandler = (req, res) => {
 	console.log(req.url);
-	res.end("Hello world, hellp graphs maker!");
+	res.end("Hello world, hello graphs maker!");
 };
 
 const server = http.createServer(requestHandler);
